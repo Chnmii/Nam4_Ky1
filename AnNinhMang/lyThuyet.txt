@@ -1,0 +1,28 @@
+- Mục tiêu của an ninh mạng
+* Mục tiêu chính:
+	+ Tính bí mật(Confidentiality)
+	+ Tính toàn vẹn(Integrity)
+	+ Tính sẵn sàng(Availability)
+
+* Mục tiêu khác:
+	+ Xác thực chủ thể: Entity Authentication
+	+ Xác thực nguồn gốc của thông điệp: Message Origin Authentication
+	+ Mốc thời gian: Timeliness
+	+ Không thể chối bỏ: Non-Repudiation
+	+ Phân quyền: Authorisation
+	+ Điều khiển truy nhập: Access Control
+
+- Mã xác thực thông điệp
+
+
+*****Encoding
+Luồng vào bit => các đoạn 24 bit
+=> Được chia làm 4 khối(block) : Ta chia được 6 bit
+=> 64 trường hợp => Ta đến ta sẽ tra bảng.
+
+
+- Thi 3 câu(Thi viết _ 60')
+Câu 1: Lý thuyết đã học(sau có đề cương)
+Câu 2: bài tập sử dụng JCA để giải bài tập
+Câu 3: Một số bài tập thực hành thầy đã hướng dẫn trên rootme.org
++ SQL injection

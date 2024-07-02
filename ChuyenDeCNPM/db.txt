@@ -1,0 +1,39 @@
+1. account 
+- username
+- password
+- fullname
+- avatar
+- phone
+- role
+- status
+
+2. wallet
+- id
+- name
+- icon
+- money
+- status
+
+3. Category
+- id
+- name
+- color
+- description
+- user_id
+- parent_id
+- status
+
+4. Money_type
+- id
+- name
+- rate 
+- status
+
+5. Transaction
+- id
+- description
+- time
+- total
+- image
+- user_id
+- wallet_id

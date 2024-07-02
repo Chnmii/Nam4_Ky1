@@ -1,0 +1,40 @@
+- Quá trình(kiểm tra trắc nghiệm + điểm danh): 40%
+- Kết thúc học phần(thi viết) + BTL: 60%
+- Bài tập lớn 3-5
+
+______________________Bài 1______________________________________
+- Phương thức là một hành động của đối tượng
+- Thông điệp là lời gọi phương thức
+
+
+_____________________Bài 2_______________________________________
+
+Câu 1: Các bước chính của pha lập kế hoạch
+- Nghiên cứu khả thi(Feasibale annalysis)
+- Kiểm tra các yếu tố khả thi về kỹ thuật, kinh tế, tổ chức
+- Quản lý dự án
+
+Câu 2: So sánh phương pháp phát triển kiểu Thác nước và phát triển ứng dụng nhanh(RAD)
+- Thác nước: một cách hệ thống, tuần tự theo từng bước lập kế hoạch, phân tích... đến xây dựng và triển khai.
+- RAD: tạo nhanh 1 phiên bản của hệ thống và tinh chỉnh từng bước.
+
+Câu 3: Những yếu tố nào quan trọng trong lựa chọn phương pháp phát triển hệ thống
+- Làm rõ các yêu cầu NSD
+- Quen thuộc với công nghệ nền
+- Độ phức tạp của hệ thống
+- Độ ổn định cần thiết của hệ thống
+- Thời gian phải hoàn thành
+- Nhu cầu thấy rõ các quá trình trong từng giai đoạn
+
+Câu 4: Các phương pháp có thể kết hợp với nhau. Giả sử kết hợp giữa phương pháp Thác nước và làm bản mẫu thiết kế.
+
+
+
+----------------------------------------------------------------
+- Biều đồ hành động
+- Biểu đồ trạng thái
+- Biểu đồ lớp: 
+- Ca sử dụng: Một kịch bản là một dãy các hành động và tương tác giuwac cavas 
+tahcs nhâ  agvfbafm tnnriojfnm thị . bihdsfs
+- Biều đồ cộng tác: tương đương với tuần tự
+- Biều đồ tuần tự: 

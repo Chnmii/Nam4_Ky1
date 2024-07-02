@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DigitalSignature
+comment1.params=message\ privateKey
+comment1.target=java.lang.String\ sign(java.lang.String,\ java.security.PrivateKey)
+comment2.params=message\ digitalSignature\ publicKey
+comment2.target=boolean\ verify(java.lang.String,\ java.lang.String,\ java.security.PublicKey)
+numComments=3
